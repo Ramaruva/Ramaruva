@@ -1,5 +1,5 @@
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Bhargav1224.Bhargav1224) -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramaruva1224&label=Profile%20views&color=0e75b6&style=flat" alt="Ramaruva" /> </p> -->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Ramaruva) -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramaruva&label=Profile%20views&color=0e75b6&style=flat" alt="Ramaruva" /> </p> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ramakrishna</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
 <p align= "center">
@@ -9,13 +9,13 @@
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
-## :man-raising-hand: About Me
+ About Me
 :seedling: **I’m currently learning :** Full Stack Web Development
 :handshake: I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 :speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
 :goal_net: **2021 Goals :** Learning new things and contribute more
-<!-- :mailbox: You can reach me at [chat](mailto:mangeshbkwsu@gmail.com)! -->
-## :rocket: Languages and Tools:
+<!-- :mailbox: You can reach me at [chat](mailto:ramrj1428@gmail.com)! -->
+ :rocket: Languages and Tools:
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -42,7 +42,7 @@
     <a href="https://github.com/Ramaruva/github-readme-stats"><img alt="Ramaruva's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ramaruva&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
     <!-- <p align="center">
-  <a href="https://github.com/Ramaruva/github-readme-stats"><img alt="Bhargav Reddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramaruva&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
+  <a href="https://github.com/Ramaruva/github-readme-stats"><img alt="Ramaruva's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramaruva&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramaruva&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
@@ -56,12 +56,12 @@
 <br/>
 <a href="https://github.com/Ramaruva/github-readme-activity-graph"><img alt="Ramaruva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ramaruva&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-## Connect with me:
+ Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/ramakrishnaaruva/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 </p>
-## :heart: Views and Followers
+ :heart: Views and Followers
 <a href="https://Ramaruva/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ramaruva">
 </a>
