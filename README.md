@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
  About Me
-:seedling: **I’m currently learning :** Full Stack Web Development
+:seedling: **I’m currently learning:** Full Stack Web Development
 :handshake: I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
-:speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
-:goal_net: **2021 Goals :** Learning new things and contribute more
+:speech_balloon: **Ask me about** Data Structures and Algorithms, JavaScript, React and MongoDB
+:goal_net: **2023 Goals :** Learning new things and contributing more
 <!-- :mailbox: You can reach me at [chat](mailto:ramrj1428@gmail.com)! -->
  :rocket: Languages and Tools:
 <p align="left">
@@ -35,7 +35,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/Ramaruva/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Bhargav Reddy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramaruva&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt=" Ram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramaruva&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   <p align="center">
