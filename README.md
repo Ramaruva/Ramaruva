@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **a budgetbuddy application using react,springboot to track spendings**
 - 🌱 I’m currently learning **Python, Docker,**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
-- 💬 Ask me about **Javascript,react,Java,**
+- 💬 Loves to discuss about **Javascript,react,Java,Mountains and Stars.**
 
 
 </h4>
